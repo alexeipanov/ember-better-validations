@@ -5,9 +5,18 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": {
+    "name": "Alexei Panov",
+    "email": "a8panov@gmail.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/alexeipanov/ember-better-validations.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/a8panov"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
