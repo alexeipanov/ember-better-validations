@@ -1,13 +1,22 @@
 {
-  "name": "ember-better-validations",
+  "name": "@alexeipanov/ember-better-validations",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": {
+    "name": "Alexei Panov",
+    "email": "a8panov@gmail.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/alexeipanov/ember-better-validations.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
